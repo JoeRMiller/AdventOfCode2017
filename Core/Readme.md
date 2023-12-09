@@ -1,0 +1,1 @@
+# Core library for Advent of Code 2017 python project
